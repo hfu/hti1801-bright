@@ -1,14 +1,14 @@
 {
   "version": 8,
-  "center": [
-    70.12,
-    30.66
+  "center": [ //6.97/18.672/-71.23
+    -71.23,
+    18.672 
   ],
-  "zoom": 4.89,
+  "zoom": 6.97,
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://hfu.github.io/pak1801-bright/tile.json"
+      "url": "https://hfu.github.io/hti1801-bright/tile.json"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
